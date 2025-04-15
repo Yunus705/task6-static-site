@@ -6,6 +6,12 @@ This is a simple and elegant static website created and hosted using **GitHub Pa
 
 ---
 
+## 🌐 Live Website
+
+🔗 [Click here to view my site](https://yunus705.github.io/task6-static-site/)
+
+---
+
 ## 📌 Project Overview
 
 - ✅ Designed a static webpage with custom styling
@@ -19,12 +25,6 @@ This is a simple and elegant static website created and hosted using **GitHub Pa
 **Name:** Yunus Sharif
 **Role:** DevOps Intern  
 **Batch:** Elevate Labs Internship
-
----
-
-## 🌐 Live Website
-
-🔗 [Click here to view my site](https://yunus705.github.io/task6-static-site/)  
 
 ---
 
