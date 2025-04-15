@@ -16,7 +16,7 @@ This is a simple and elegant static website created and hosted using **GitHub Pa
 
 ## 🧑‍💻 Author
 
-**Name:** Yunus  
+**Name:** Yunus Sharif
 **Role:** DevOps Intern  
 **Batch:** Elevate Labs Internship
 
@@ -24,8 +24,7 @@ This is a simple and elegant static website created and hosted using **GitHub Pa
 
 ## 🌐 Live Website
 
-🔗 [Click here to view my site](https://<your-username>.github.io/task6-static-site/)  
-*(Replace `<your-username>` with your actual GitHub username)*
+🔗 [Click here to view my site](https://yunus705.github.io/task6-static-site/)  
 
 ---
 
@@ -41,7 +40,6 @@ This is a simple and elegant static website created and hosted using **GitHub Pa
 - Clean and centered **glass effect card UI**
 - **Smooth fade-in animation**
 - Custom font from Google Fonts
-- Fully responsive and mobile-friendly (optional)
 
 ---
 
@@ -53,7 +51,7 @@ This is a simple and elegant static website created and hosted using **GitHub Pa
 4. Go to **Settings → Pages**
 5. Under Source: select `main` and `/ (root)`
 6. Click Save, your site will be live at:
-https://<your-username>.github.io/task6-static-site/
+https://your-username.github.io/task6-static-site/
 
 ---
 
